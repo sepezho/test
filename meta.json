@@ -1,0 +1,7 @@
+{
+  "name": "cat",
+  "description": "cat token",
+  "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/19856.png",
+  "symbol": "CAT",
+  "decimals": 9
+}
