@@ -1,7 +1,7 @@
 {
-  "name": "cat",
-  "description": "cat token",
-  "image": "https://s2.coinmarketcap.com/static/img/coins/200x200/19856.png",
-  "symbol": "CAT",
+  "name": "btc",
+  "description": "btc synt",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1200px-Bitcoin.svg.png",
+  "symbol": "BTC",
   "decimals": 9
 }
