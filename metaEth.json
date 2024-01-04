@@ -1,0 +1,7 @@
+{
+  "name": "eth",
+  "description": "eth synt",
+  "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9a411426-3711-47d4-9c1a-dcf72973ddfc/dfirerb-81bd0970-0e63-4c32-9ab3-e99045fed8c7.png/v1/fill/w_1280,h_1280/ethereum_eth_logo_by_saphyl_dfirerb-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzlhNDExNDI2LTM3MTEtNDdkNC05YzFhLWRjZjcyOTczZGRmY1wvZGZpcmVyYi04MWJkMDk3MC0wZTYzLTRjMzItOWFiMy1lOTkwNDVmZWQ4YzcucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.kKz1p_Fyxww4EM9wRTJH2Kz4CY-enXnHKYK1W1LE6Nw",
+  "symbol": "eth",
+  "decimals": 9
+}
